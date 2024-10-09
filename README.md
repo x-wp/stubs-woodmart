@@ -1,0 +1,1 @@
+# Woodmart theme stubs

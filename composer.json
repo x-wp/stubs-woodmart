@@ -1,0 +1,32 @@
+{
+  "name": "x-wp/stubs-woodmart",
+  "description": "Woodmart theme stubs to improve static analysis.",
+  "license": "GPL-2.0-only",
+  "type": "library",
+  "keywords": [
+    "wordpress",
+    "dev",
+    "stubs",
+    "static-analysis",
+    "interoperability",
+    "standards",
+    "extended-wp"
+  ],
+  "authors": [
+    {
+      "name": "Sibin Grasic",
+      "email": "sibin.grasic@oblak.studio"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    },
+    "platform": {
+      "php": "8.0"
+    }
+  }
+}
